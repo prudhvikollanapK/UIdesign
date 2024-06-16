@@ -1,0 +1,16 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  height: 100vh;
+  padding: 20px;
+  background-color: #c9f0f1;
+}
+
+.button-section {
+  margin-right: 10rem;
+}
+
+.checkbox-section {
+  margin-right: 10rem;
+}

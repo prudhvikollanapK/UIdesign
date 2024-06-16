@@ -1,0 +1,19 @@
+.button-section {
+  display: flex;
+  flex-direction: column;
+  margin-right: 20px;
+}
+
+.done-button {
+  background-color: #f4b400;
+  border: none;
+  padding: 0.5rem 5rem;
+  color: white;
+  cursor: pointer;
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.done-button:hover {
+  background-color: #e6a200;
+}
