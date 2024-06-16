@@ -1,0 +1,17 @@
+.checkbox-section {
+  display: flex;
+  flex-direction: column;
+  margin-right: 20px;
+}
+
+.checkbox-item {
+  padding: 5px;
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+  background-color: #fff;
+}
+
+.checkbox-item input {
+  margin-right: 7rem;
+}
